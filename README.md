@@ -3,7 +3,7 @@ University of Birmingham Mathematics
 
 Introduction
 ------------
-This GitHub account has a collection of repositories used for shared revision resources. Users can upload and edit notes, cheatsheets, links, etc. to help others. There is a different repository for each module. If you don't know how to use `git`, please read my tutorial [here](How-to-use-git.md). This is on the same line.
+This GitHub account has a collection of repositories used for shared revision resources. Users can upload and edit notes, cheatsheets, links, etc. to help others. There is a different repository for each module. If you don't know how to use `git`, please read my tutorial [here](How-to-use-git.md). 
 
 Modules
 -------
@@ -19,9 +19,10 @@ Contributing
 If you wish to contribute to a particular module:
 1. Fork the repository for the module.
 2. Clone your forked repository.
-3. Make your changes.
-4. Sync your local repository with the remote.
-5. Submit a pull request to the original repository on a new branch.
+3. Create a new branch
+4. Make your changes.
+5. Sync your local repository with the remote.
+6. Submit a pull request to the original repository on a new branch.
 	
 Disclaimer
 ----------
