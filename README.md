@@ -16,7 +16,7 @@ Modules
 
 Contributing
 ------------
-If you wish to contribute to a particular module:
+If you wish to contribute to a particular module: 
 1. Fork the repository for the module.
 2. Clone your forked repository.
 3. Create a new branch
