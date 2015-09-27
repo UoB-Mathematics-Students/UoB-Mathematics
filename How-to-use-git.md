@@ -30,6 +30,9 @@ How to Contribute (Basic Method)
 6. Your changes will be reviewed and published.
 7. Repeat from step 2 for any files you wish to change.
 
+###Exercise
+Try adding your name on a new line to `Names.txt` and submit a pull request.
+
 How to use Git (Advanced)
 -------------------------
 
