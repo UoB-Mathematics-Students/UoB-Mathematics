@@ -35,7 +35,7 @@ If you have read through the [tutorial][tutorial-link], but it isn't making sens
 
 Collaborating
 -------------
-- If you want to start a repository for a module that is not currently available, please email [UoBMathsGithub@googlemail.com][contact]. You will be responsible for reviewing the changes being made to the files in the repository. You do not need to be familiar with git to take on this role.
+If you want to start a repository for a module that is not currently available, please email [UoBMathsGithub@googlemail.com][contact]. You will be responsible for reviewing the changes being made to the files in the repository. You do not need to be familiar with git to take on this role.
 
 Disclaimer
 ----------
