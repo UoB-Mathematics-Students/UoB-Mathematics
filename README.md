@@ -28,7 +28,7 @@ Contributing
 ------------
 If you wish to contribute to a particular module, follow the steps outlined [here](How-to-use-git.md). 
 
-The main format used should be LaTeX, or plain text. If you wish to submit a Microsoft Word document or similar, please email [UoBMathsGithub@googlemail.com][contact]. Ideally, there will be no Word documents.
+The main format used should be LaTeX, or plain text. If you wish to submit a a non-text file, please email [UoBMathsGithub@googlemail.com][contact]. (Please try not to submit word documents).
 	
 ###What if it isn't working?
 If you have read through the [tutorial][tutorial-link], but it isn't making sense, you can post your changes/resources on the Facebook group, or you can email [UoBMathsGithub@googlemail.com][contact] and an owner of the repository will try to include them.
