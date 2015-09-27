@@ -22,7 +22,7 @@ Modules
 	- [Probability and Statistics](https://github.com/UoB-Mathematics-Students/Year-1-PS)
 - Year 2
 	- [Linear Algebra](https://github.com/UoB-Mathematics-Students/Year-2-LA)
-	- [Multivariable and Vector Analysis](https://github.com/UoB-Mathematics-Students/2-MVA)
+	- [Multivariable and Vector Analysis](https://github.com/UoB-Mathematics-Students/Year-2-MVA)
 
 Contributing
 ------------
