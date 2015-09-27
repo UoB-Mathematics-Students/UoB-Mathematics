@@ -33,6 +33,10 @@ The main format used should be LaTeX, or plain text. If you wish to submit a Mic
 ###What if it isn't working?
 If you have read through the [tutorial][tutorial-link], but it isn't making sense, you can post your changes/resources on the Facebook group, or you can email [UoBMathsGithub@googlemail.com][contact] and an owner of the repository will try to include them.
 
+Collaborating
+-------------
+- If you want to start a repository for a module that is not currently available, please email [UoBMathsGithub@googlemail.com][contact]. You will be responsible for reviewing the changes being made to the files in the repository. You do not need to be familiar with git to take on this role.
+
 Disclaimer
 ----------
 This is a student-run account, and is not associated with the University of Birmingham.
