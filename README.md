@@ -3,7 +3,7 @@ University of Birmingham Mathematics
 
 Introduction
 ------------
-This GitHub account has a collection of repositories used for shared revision resources. Users can upload and edit notes, cheatsheets, links, etc. to help others. There is a different repository for each module. If you don't know how to use `git`, please read my tutorial [here][tutorial-link]. 
+This GitHub account has a collection of repositories used for shared revision resources. Users can upload and edit notes, cheatsheets, links, etc. to help others. There is a different repository for each module. 
 
 The Idea
 --------
