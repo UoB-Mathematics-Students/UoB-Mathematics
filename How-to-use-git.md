@@ -53,6 +53,7 @@ How to use Git
 10. Push the changes to your remote fork.
    `git push -u origin my-changes`
 11. Submit a pull request on GitHub by selecting the `my-changes` branch on your fork. Follow the instructions to complete the pull request.
+
    ![Pull request](images/Pull.PNG)
 
 	
