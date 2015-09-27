@@ -13,7 +13,7 @@ My idea is to have a central location for the resources for a particular module.
 
 Expanding on this idea, I thought it would be useful to have a set of resources that can be edited by anyone. This way, typos, missing information, etc., can be corrected by anyone, and then the administrator can publish these changes to all other users.
 
-By using git, these is achieved.
+By using git, this is achieved.
 
 Modules
 -------
