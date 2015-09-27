@@ -42,5 +42,5 @@ Disclaimer
 This is a student-run account, and is not associated with the University of Birmingham.
 
 
-[tutorial-link]: Basic-contribution.md
+[tutorial-link]: contributing/Basic-contribution.md
 [contact]: mailto:UoBMathsGithub@googlemail.com
