@@ -12,6 +12,7 @@ Also, what happens if you want to collaborate on a project? Do you change some f
 *Git* allows you to make changes to files, and then take a snapshot of the project's current state while adding a caption for its current state, such as "Changed introduction of research section".
 
 Git solves the mentioned problems:
+
 1. If you make a mistake, or need to see a previous version, you can look through your previous snapshots (usually known as 'commits') and find the relevant caption/commit message, and then look at the files there.
 2. Collaborating on projects is made easy, since Git figures out what has been changed, and then tries to merge these changes automatically. If there are any clashes, Git will ask you to fix these manually, but usually there are no problems.
 
@@ -23,14 +24,14 @@ How to Contribute (Basic Method)
 	![Editing files](images/Editing-Files.PNG)
 	* If you wish to add a file, click the `+` button.
 	![Adding files](images/Adding-Files.PNG)
-3. Once you are finished, click the `Propose file change` button.
+3. Once you are finished, click the `Propose file change`/`Propose new file` button.
 4. On the next page, click the `Create pull request` button.
 5. Finally, click the `Create pull request` button on the next page.
 6. Your changes will be reviewed and published.
 7. Repeat from step 2 for any files you wish to change.
 
-How to use Git
---------------
+How to use Git (Advanced)
+-------------------------
 
 ###First Time
 1. Install Git [here](https://git-scm.com/downloads).
@@ -58,7 +59,7 @@ How to use Git
 
 	
 ###Other Times
-In future times, you will need to make sure that your `master` branch is up-to-date with the original master branch, since others might have edited. Then, any changes that have been made by others can be seen on your machine.
+In future times, you will need to make sure that your `master` branch is up-to-date with the original master branch, since others might have edited it. Then, any changes that have been made by others can be seen on your machine.
 
 1. `git checkout master`
 2. `git fetch upstream`

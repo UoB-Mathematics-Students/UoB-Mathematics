@@ -26,18 +26,12 @@ Modules
 
 Contributing
 ------------
-If you wish to contribute to a particular module: 
+If you wish to contribute to a particular module, follow the steps outlined [here](How-to-use-git.md). 
 
-1. Fork the repository for the module.
-2. Clone your forked repository.
-3. Create a new branch
-4. Make your changes.
-5. Sync your local repository with the remote.
-6. Submit a pull request to the original repository on a new branch.
+The main format used should be LaTeX, or plain text. If you wish to submit a Microsoft Word document or similar, please email [UoBMathsGithub@googlemail.com][contact]. Ideally, there will be no Word documents.
 	
-What if I can't figure out how to use git?
-------------------------------------------
-If you have read through the [tutorial][tutorial-link], but it isn't making sense, you can post your changes/resources on the Facebook group, or you can email [UoBMathsGithub@googlemail.com](mailto:UoBMathsGithub@googlemail.com) and an owner of the repository will try to include them.
+###What if it isn't working?
+If you have read through the [tutorial][tutorial-link], but it isn't making sense, you can post your changes/resources on the Facebook group, or you can email [UoBMathsGithub@googlemail.com][contact] and an owner of the repository will try to include them.
 
 Disclaimer
 ----------
@@ -45,3 +39,4 @@ This is a student-run account, and is not associated with the University of Birm
 
 
 [tutorial-link]: How-to-use-git.md
+[contact]: mailto:UoBMathsGithub@googlemail.com
