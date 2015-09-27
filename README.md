@@ -35,7 +35,8 @@ If you wish to contribute to a particular module:
 5. Sync your local repository with the remote.
 6. Submit a pull request to the original repository on a new branch.
 	
-#What if I can't figure out how to use git?
+What if I can't figure out how to use git?
+------------------------------------------
 If you have read through the [tutorial][tutorial-link], but it isn't making sense, you can post your changes/resources on the Facebook group, or you can email [UoBMathsGithub@googlemail.com](mailto:UoBMathsGithub@googlemail.com) and an owner of the repository will try to include them.
 
 Disclaimer
