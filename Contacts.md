@@ -2,6 +2,8 @@ Contacts
 ========
 Below is a list of useful contacts for the School of Mathematics. Please add more contacts, and if you know a lecturer's office hours, please update the table.
 
+<!--If editing, please put emails in <> tags-->
+
 | Name | Title | Email | Telephone | Office hours |
 | ---- | ----- | ----- | --------- | ------------ |
 | Dr Dirk Hermans | First Year Director | <d.f.m.hermans@bham.ac.uk> | 0121 414 3961 | |
