@@ -1,5 +1,5 @@
-How to use Git
-==============
+Advanced Contribution
+=====================
 
 What is Git?
 ------------
@@ -15,23 +15,6 @@ Git solves the mentioned problems:
 
 1. If you make a mistake, or need to see a previous version, you can look through your previous snapshots (usually known as 'commits') and find the relevant caption/commit message, and then look at the files there.
 2. Collaborating on projects is made easy, since Git figures out what has been changed, and then tries to merge these changes automatically. If there are any clashes, Git will ask you to fix these manually, but usually there are no problems.
-
-How to Contribute (Basic Method)
---------------------------------
-1. [Create a GitHub account](https://github.com/join).
-2. Make your changes to the files.
-	* If you wish to change the content of a file, click on the file, then click the edit button at the top right of the file.
-	![Editing files](images/Editing-Files.PNG)
-	* If you wish to add a file, click the `+` button.
-	![Adding files](images/Adding-Files.PNG)
-3. Once you are finished, click the `Propose file change`/`Propose new file` button.
-4. On the next page, click the `Create pull request` button.
-5. Finally, click the `Create pull request` button on the next page.
-6. Your changes will be reviewed and published.
-7. Repeat from step 2 for any files you wish to change.
-
-###Exercise
-Try adding your name on a new line to `Names.txt` and submit a pull request.
 
 How to use Git (Advanced)
 -------------------------

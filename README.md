@@ -26,7 +26,7 @@ Modules
 
 Contributing
 ------------
-If you wish to contribute to a particular module, follow the steps outlined [here](How-to-use-git.md). 
+If you wish to contribute to a particular module, follow the steps outlined [here][tutorial-link]. 
 
 The main format used should be LaTeX, or plain text. If you wish to submit a a non-text file, please email [UoBMathsGithub@googlemail.com][contact]. (Please try not to submit word documents).
 	
@@ -42,5 +42,5 @@ Disclaimer
 This is a student-run account, and is not associated with the University of Birmingham.
 
 
-[tutorial-link]: How-to-use-git.md
+[tutorial-link]: Basic-contribution.md
 [contact]: mailto:UoBMathsGithub@googlemail.com
