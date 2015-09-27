@@ -18,11 +18,11 @@ By using git, this is achieved.
 Modules
 -------
 - Year 1
-	- [Algebra and Combinatorics](https://github.com/UoB-Mathematics/Year-1-AC)
-	- [Probability and Statistics](https://github.com/UoB-Mathematics/Year-1-PS)
+	- [Algebra and Combinatorics](https://github.com/UoB-Mathematics-Students/Year-1-AC)
+	- [Probability and Statistics](https://github.com/UoB-Mathematics-Students/Year-1-PS)
 - Year 2
-	- [Linear Algebra](https://github.com/UoB-Mathematics/Year-2-LA)
-	- [Multivariable and Vector Analysis](https://github.com/UoB-Mathematics/2-MVA)
+	- [Linear Algebra](https://github.com/UoB-Mathematics-Students/Year-2-LA)
+	- [Multivariable and Vector Analysis](https://github.com/UoB-Mathematics-Students/2-MVA)
 
 Contributing
 ------------
